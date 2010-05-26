@@ -5,3 +5,5 @@ A regular line, inserted in the middle.
 A line with trailing spaces.
 A line with trailing tabs.
 
+
+And added a new line.
