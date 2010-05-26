@@ -1,5 +1,6 @@
 	A line with a leading tab.
   	A line with leading spaces, then a tab.
+A regular line, inserted in the middle.
 A line with trailing spaces.      
 A line with trailing tabs.		
 
