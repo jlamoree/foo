@@ -1,0 +1,5 @@
+	A line with a leading tab.
+  	A line with leading spaces, then a tab.
+A line with trailing spaces.      
+A line with trailing tabs.		
+
