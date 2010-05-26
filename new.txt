@@ -6,6 +6,6 @@ Another line.
 Some text.
 
 
-A line with trailing spaces.      
-A line with trailing tabs.		
+A line with trailing spaces.
+A line with trailing tabs.
 
