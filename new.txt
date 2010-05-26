@@ -2,10 +2,6 @@
   	A line with leading spaces, then a tab.
 A regular line, inserted in the middle.
 
-
-New!!
-
-
 A line with trailing spaces.
 A line with trailing tabs.
 
